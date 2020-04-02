@@ -8,7 +8,7 @@ This feature is possible ***(US only)*** with the standard `Authorize.net integr
 First, you need to have an `Authorize.net account <https://www.odoo.com/documentation/user/13.0/ecommerce/shopper_experience/authorize.html#create-an-authorize-net-account>`__ that is set up with a processor and your Authorize.net account must have the eCheck.Net feature activated.
 
 .. image:: media/ach01.png
-	:align: center
+  :align: center
 
 Set up Authorize.net
 ===============================
@@ -17,9 +17,9 @@ Set up Authorize.net
 * This will generate an **API Client Key**
 
 .. image:: media/authorize02.png
-	:align: center
+  :align: center
 
-* Your configuration is now ready! You can make Authorize.Net visible on your merchant interface and activate the ***Enabled*** state.
+* Your configuration is now ready! You can make Authorize.Net visible on your merchant interface and activate the **Enabled** state.
 
 .. image:: media/paypal_live.png
 	:align: center
