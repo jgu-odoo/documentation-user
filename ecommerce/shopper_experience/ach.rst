@@ -17,14 +17,14 @@ Set up Authorize.net
 * This will generate an **API Client Key**
 
 .. image:: media/authorize02.png
-  :align: center
+	:align: center
 
 * Your configuration is now ready! You can make Authorize.Net visible on your merchant interface and activate the **Enabled** state.
 
 .. image:: media/paypal_live.png
 	:align: center
 
-… notes:: Credentials provided by Authorize.net are different for both test and production mode. Don’t forget to update them in Odoo when you switch from testing to production or vice-versa
+.. notes:: Credentials provided by Authorize.net are different for both test and production mode. Don’t forget to update them in Odoo when you switch from testing to production or vice-versa
 
 Set up ACH
 ===============================
