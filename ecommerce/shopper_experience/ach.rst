@@ -12,9 +12,9 @@ First, you need to have an `Authorize.net account <https://www.odoo.com/document
 
 Set up Authorize.net
 ===============================
-* Activate Authroize.net in Odoo (::menuselection: ‘Accounting --> Configuration --> Payments --> Payment Acquires’)
-* Enter your ***API Login ID, API Transaction Key, API Signature Key ***
-* This will generate an ***API Client Key***
+* Activate Authroize.net in Odoo :menuselection: `Accounting --> Configuration --> Payments --> Payment Acquires`.
+* Enter your **API Login ID,** **API Transaction Key,** **API Signature Key**
+* This will generate an **API Client Key**
 
 .. image:: media/authorize02.png
 	:align: center
